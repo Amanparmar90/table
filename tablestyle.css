@@ -1,0 +1,17 @@
+table,tr,th,td{
+    border: 5px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    
+}
+table{
+    text-align: center;
+    padding: 200px;
+    margin: 400px;
+}
+th{
+    background-color: yellow;
+}
+td{
+    background-color: aqua;
+}
